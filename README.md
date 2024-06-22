@@ -1,70 +1,32 @@
-# Getting Started with Create React App
+# Shopping-Cart App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+TechStack Used : ReactJs , Tailwind CSS
 
-## Available Scripts
+In this project, I've created an interactive e-commerce homepage using ReactJS and Tailwind CSS. The application allows users to view a list of items that can be added to or removed from a shopping cart. The cart dynamically updates to show the added items, their quantities, and the total price.
 
-In the project directory, you can run:
+## Features
 
-### `npm start`
+1)You can add or remmove items from the home page.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+2)You can remove items from cart page.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+3)You can see the total items you have added to the cart and their total price respectively.
 
-### `npm test`
+### Getting Started
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1) Clone the repo.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+2) Run the command npm run start on your terminal to render it on your local host.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Glimpse of website
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Home Page
 
-### `npm run eject`
+![Screenshot (1999)](https://github.com/kavy-7/Shopping-Cart/assets/134776786/745fca34-b5f3-44ef-8561-fdc2ae83d822)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![Screenshot (2000)](https://github.com/kavy-7/Shopping-Cart/assets/134776786/03cf8593-d37f-4e42-aef9-aa46eefe79b3)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Cart Page
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Screenshot (2001)](https://github.com/kavy-7/Shopping-Cart/assets/134776786/bf286578-5744-46fe-ac6e-7fd5402f7883)
